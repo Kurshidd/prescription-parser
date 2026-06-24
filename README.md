@@ -97,6 +97,18 @@ Input (JPG/PNG/PDF/text)
 
 ## Setup
 
+*********** important *********
+
+*** first option
+
+First do this work, make these three zip files into one zip file, then unzip it, then you will have a proper file.
+
+*** second option
+
+Extract these three zip files and then add the entire file and you will get a proper full file.
+
+
+
 ```bash
 git clone https://github.com/<your-username>/prescription-parser.git
 cd prescription-parser
